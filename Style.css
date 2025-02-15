@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+header {
+    background-color: #ff4500;
+    color: white;
+    padding: 15px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    padding: 50px;
+    background: #ddd;
+}
+
+.news {
+    padding: 20px;
+}
+
+article {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
